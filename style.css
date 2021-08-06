@@ -4,5 +4,11 @@ body{
 
 button{
     color: black;
-    border: ridge;
+    border-style: dotted;
+}
+
+p{
+    font-size: 30px;
+    color: black;
+
 }
